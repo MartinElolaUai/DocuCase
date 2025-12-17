@@ -1,0 +1,604 @@
+[
+  {
+    "name": "Sitio OSDE WEB",
+    "bapp_id": "6",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/6",
+    "group_name": "ADS",
+    "gitlab_url": "https://git.osde.ar/projects/2089"
+  },
+  {
+    "name": "Invgate",
+    "bapp_id": "7",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/7",
+    "group_name": "Mas",
+    "gitlab_url": "https://git.osde.ar/projects/1300"
+  },
+  {
+    "name": "Intranet Móvil",
+    "bapp_id": "9",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/9",
+    "group_name": "Mas",
+    "gitlab_url": "https://git.osde.ar/projects/2089"
+  },
+  {
+    "name": "Portal de atencion",
+    "bapp_id": "11",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/11",
+    "group_name": "LINK",
+    "gitlab_url": "https://git.osde.ar/projects/1283"
+  },
+  {
+    "name": "Sitio OSDE Backend",
+    "bapp_id": "12",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/12",
+    "group_name": "ADS",
+    "gitlab_url": "https://git.osde.ar/projects/1732"
+  },
+  {
+    "name": "Integra BPM",
+    "bapp_id": "13",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/13",
+    "group_name": "Aplicaciones Colaborativas",
+    "gitlab_url": "https://git.osde.ar/projects/1251"
+  },
+  {
+    "name": "Intranet",
+    "bapp_id": "14",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/14",
+    "group_name": "Aplicaciones Colaborativas",
+    "gitlab_url": "https://git.osde.ar/projects/1298"
+  },
+  {
+    "name": "Adea",
+    "bapp_id": "15",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/15",
+    "group_name": "Aplicaciones Colaborativas",
+    "gitlab_url": "https://git.osde.ar/projects/1604"
+  },
+  {
+    "name": "Turnos Osde",
+    "bapp_id": "16",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/16",
+    "group_name": "Consultorio Digital",
+    "gitlab_url": "https://git.osde.ar/projects/4147"
+  },
+  {
+    "name": "Sitios Publicos",
+    "bapp_id": "17",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/17",
+    "group_name": "ADS",
+    "gitlab_url": "https://git.osde.ar/projects/1234"
+  },
+  {
+    "name": "Link",
+    "bapp_id": "18",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/18",
+    "group_name": "LINK",
+    "gitlab_url": "https://git.osde.ar/projects/2668"
+  },
+  {
+    "name": "CMO",
+    "bapp_id": "19",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/19",
+    "group_name": "Urgencias",
+    "gitlab_url": "https://git.osde.ar/projects/2907"
+  },
+  {
+    "name": "Clarity",
+    "bapp_id": "27",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/27",
+    "group_name": "Mas",
+    "gitlab_url": "https://git.osde.ar/projects/1447"
+  },
+  {
+    "name": "WS - Aplicaciones de Soporte",
+    "bapp_id": "34",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/34",
+    "group_name": "Mas",
+    "gitlab_url": "https://git.osde.ar/projects/1370"
+  },
+  {
+    "name": "GSC",
+    "bapp_id": "35",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/35",
+    "group_name": "Aplicaciones Colaborativas",
+    "gitlab_url": "https://git.osde.ar/projects/1275"
+  },
+  {
+    "name": "Dashboard",
+    "bapp_id": "41",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/41",
+    "group_name": "Sin asignar",
+    "gitlab_url": "https://git.osde.ar/projects/2902"
+  },
+  {
+    "name": "Venta Online",
+    "bapp_id": "43",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/43",
+    "group_name": "LINK",
+    "gitlab_url": "https://git.osde.ar/projects/2909"
+  },
+  {
+    "name": "URG-Rosario",
+    "bapp_id": "44",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/44",
+    "group_name": "Urgencias",
+    "gitlab_url": "https://git.osde.ar/projects/2089"
+  },
+  {
+    "name": "PAS",
+    "bapp_id": "45",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/45",
+    "group_name": "Mas",
+    "gitlab_url": "https://git.osde.ar/projects/2912"
+  },
+  {
+    "name": "Invgate Testing",
+    "bapp_id": "46",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/46",
+    "group_name": "Mas",
+    "gitlab_url": "https://git.osde.ar/projects/1779"
+  },
+  {
+    "name": "Cartilla Inteligente",
+    "bapp_id": "47",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/47",
+    "group_name": "ADS",
+    "gitlab_url": "https://git.osde.ar/projects/3028"
+  },
+  {
+    "name": "Portal Corporativo",
+    "bapp_id": "50",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/50",
+    "group_name": "Mas",
+    "gitlab_url": "https://git.osde.ar/projects/2089"
+  },
+  {
+    "name": "Insight",
+    "bapp_id": "51",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/51",
+    "group_name": "Mas",
+    "gitlab_url": "https://git.osde.ar/projects/3705"
+  },
+  {
+    "name": "Extranet-Turnos",
+    "bapp_id": "52",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/52",
+    "group_name": "ADS",
+    "gitlab_url": "https://git.osde.ar/projects/2892"
+  },
+  {
+    "name": "ChatBot Corporativo",
+    "bapp_id": "53",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/53",
+    "group_name": "ADS",
+    "gitlab_url": "https://git.osde.ar/projects/3061"
+  },
+  {
+    "name": "Buscador multisujeto",
+    "bapp_id": "1066",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1066",
+    "group_name": "LINK",
+    "gitlab_url": "https://git.osde.ar/projects/1404"
+  },
+  {
+    "name": "RUSS",
+    "bapp_id": "1067",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1067",
+    "group_name": "Consultorio Digital",
+    "gitlab_url": "https://git.osde.ar/projects/2504"
+  },
+  {
+    "name": "Pruebas internas WIP",
+    "bapp_id": "1073",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1073",
+    "group_name": "Sin asignar",
+    "gitlab_url": "https://git.osde.ar/projects/2089"
+  },
+  {
+    "name": "Link (Servicios)",
+    "bapp_id": "1075",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1075",
+    "group_name": "LINK",
+    "gitlab_url": "https://git.osde.ar/projects/2089"
+  },
+  {
+    "name": "Asistencia medica de urgencias",
+    "bapp_id": "1077",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1077",
+    "group_name": "Urgencias",
+    "gitlab_url": "https://git.osde.ar/projects/3246"
+  },
+  {
+    "name": "IAM",
+    "bapp_id": "1078",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1078",
+    "group_name": "Mas",
+    "gitlab_url": "https://git.osde.ar/projects/1844"
+  },
+  {
+    "name": "SaludSoft",
+    "bapp_id": "1079",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1079",
+    "group_name": "SaludSoft",
+    "gitlab_url": "https://git.osde.ar/projects/2827"
+  },
+  {
+    "name": "Seguridad",
+    "bapp_id": "1082",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1082",
+    "group_name": "Mas",
+    "gitlab_url": "https://git.osde.ar/projects/2089"
+  },
+  {
+    "name": "Nice",
+    "bapp_id": "1083",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1083",
+    "group_name": "Aplicaciones Colaborativas",
+    "gitlab_url": "https://git.osde.ar/projects/3580"
+  },
+  {
+    "name": "Extranet - Cuenta Corriente",
+    "bapp_id": "1085",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1085",
+    "group_name": "ADS",
+    "gitlab_url": "https://git.osde.ar/projects/2089"
+  },
+  {
+    "name": "Prescripciones",
+    "bapp_id": "1086",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1086",
+    "group_name": "Consultorio Digital",
+    "gitlab_url": "https://git.osde.ar/projects/3675"
+  },
+  {
+    "name": "Prescripcion Digital",
+    "bapp_id": "1087",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1087",
+    "group_name": "Consultorio Digital",
+    "gitlab_url": "https://git.osde.ar/projects/2089"
+  },
+  {
+    "name": "ysocial",
+    "bapp_id": "1089",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1089",
+    "group_name": "Urgencias",
+    "gitlab_url": "https://git.osde.ar/projects/3230"
+  },
+  {
+    "name": "Sitio OSDE",
+    "bapp_id": "1090",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1090",
+    "group_name": "ADS",
+    "gitlab_url": "https://git.osde.ar/projects/2089"
+  },
+  {
+    "name": "Servicios externos",
+    "bapp_id": "1091",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1091",
+    "group_name": "Mas",
+    "gitlab_url": "https://git.osde.ar/projects/3733"
+  },
+  {
+    "name": "Insight Testing",
+    "bapp_id": "1092",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1092",
+    "group_name": "Mas",
+    "gitlab_url": "https://git.osde.ar/projects/3177"
+  },
+  {
+    "name": "Mapa Zabbix - Consultorio Digital",
+    "bapp_id": "1094",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1094",
+    "group_name": "Sin asignar",
+    "gitlab_url": "https://git.osde.ar/projects/3804"
+  },
+  {
+    "name": "Mapa Zabbix Consultorio Digital",
+    "bapp_id": "1096",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1096",
+    "group_name": "Mas",
+    "gitlab_url": "https://git.osde.ar/projects/2089"
+  },
+  {
+    "name": "Turno Virtual WIP",
+    "bapp_id": "1097",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1097",
+    "group_name": "Sin asignar",
+    "gitlab_url": "https://git.osde.ar/projects/2089"
+  },
+  {
+    "name": "Asistencia Medica Web",
+    "bapp_id": "1098",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1098",
+    "group_name": "Urgencias",
+    "gitlab_url": "https://git.osde.ar/projects/3833"
+  },
+  {
+    "name": "Turnos Backoffice",
+    "bapp_id": "1102",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1102",
+    "group_name": "Consultorio Digital",
+    "gitlab_url": "https://git.osde.ar/projects/3944"
+  },
+  {
+    "name": "Extranet",
+    "bapp_id": "1106",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1106",
+    "group_name": "ADS",
+    "gitlab_url": "https://git.osde.ar/projects/1342"
+  },
+  {
+    "name": "Login Extranet",
+    "bapp_id": "1107",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1107",
+    "group_name": "ADS",
+    "gitlab_url": "https://git.osde.ar/projects/2089"
+  },
+  {
+    "name": "WDG",
+    "bapp_id": "1109",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1109",
+    "group_name": "SaludSoft",
+    "gitlab_url": "https://git.osde.ar/projects/4020"
+  },
+  {
+    "name": "Web De Gestion",
+    "bapp_id": "1117",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1117",
+    "group_name": "Sin asignar",
+    "gitlab_url": "https://git.osde.ar/projects/2089"
+  },
+  {
+    "name": "Asistencia Medica de Urgencias MOBILE",
+    "bapp_id": "1126",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1126",
+    "group_name": "Urgencias",
+    "gitlab_url": "https://git.osde.ar/projects/2089"
+  },
+  {
+    "name": "Soporte Validacion en Linea",
+    "bapp_id": "1127",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1127",
+    "group_name": "SaludSoft",
+    "gitlab_url": "https://git.osde.ar/projects/4189"
+  },
+  {
+    "name": "Link (Equipo QA)",
+    "bapp_id": "1128",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1128",
+    "group_name": "LINK",
+    "gitlab_url": "https://git.osde.ar/projects/3300"
+  },
+  {
+    "name": "Mis Tramites",
+    "bapp_id": "1129",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1129",
+    "group_name": "ADS",
+    "gitlab_url": "https://git.osde.ar/projects/4285"
+  },
+  {
+    "name": "Auditoria de Internaciones",
+    "bapp_id": "1130",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1130",
+    "group_name": "SaludSoft",
+    "gitlab_url": "https://git.osde.ar/projects/4287"
+  },
+  {
+    "name": "Asistencia Medica Web testing",
+    "bapp_id": "1131",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1131",
+    "group_name": "Urgencias",
+    "gitlab_url": "https://git.osde.ar/projects/4368"
+  },
+  {
+    "name": "asistencia-medica-de-urgencias-web",
+    "bapp_id": "1132",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1132",
+    "group_name": "Urgencias",
+    "gitlab_url": "https://git.osde.ar/projects/2089"
+  },
+  {
+    "name": "DISCA",
+    "bapp_id": "1138",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1138",
+    "group_name": "SaludSoft",
+    "gitlab_url": "https://git.osde.ar/projects/4383"
+  },
+  {
+    "name": "APP OSDE",
+    "bapp_id": "1156",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1156",
+    "group_name": "ADS",
+    "gitlab_url": "https://git.osde.ar/projects/3619"
+  },
+  {
+    "name": "TAC - Demo",
+    "bapp_id": "1169",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1169",
+    "group_name": "Sin asignar",
+    "gitlab_url": "https://git.osde.ar/projects/4457"
+  },
+  {
+    "name": "Atencion Domiciliaria",
+    "bapp_id": "1170",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1170",
+    "group_name": "SaludSoft",
+    "gitlab_url": "https://git.osde.ar/projects/4471"
+  },
+  {
+    "name": "Discapacidad, Salud Mental y Asistencia Domiciliaria",
+    "bapp_id": "1187",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1187",
+    "group_name": "SaludSoft",
+    "gitlab_url": "https://git.osde.ar/projects/2089"
+  },
+  {
+    "name": "DISCA (WIP)",
+    "bapp_id": "1215",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1215",
+    "group_name": "Sin asignar",
+    "gitlab_url": "https://git.osde.ar/projects/2089"
+  },
+  {
+    "name": "C4C Ventas",
+    "bapp_id": "1217",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1217",
+    "group_name": "LINK",
+    "gitlab_url": "https://git.osde.ar/projects/4543"
+  },
+  {
+    "name": "C4C Servicios",
+    "bapp_id": "1218",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1218",
+    "group_name": "LINK",
+    "gitlab_url": "https://git.osde.ar/projects/4544"
+  },
+  {
+    "name": "C4C Vista 360",
+    "bapp_id": "1219",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1219",
+    "group_name": "LINK",
+    "gitlab_url": "https://git.osde.ar/projects/4679"
+  },
+  {
+    "name": "App OSDE (QA)",
+    "bapp_id": "1220",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1220",
+    "group_name": "Sin asignar",
+    "gitlab_url": "https://git.osde.ar/projects/2089"
+  },
+  {
+    "name": "Autorizacion de Prestaciones Discapacidad",
+    "bapp_id": "1221",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1221",
+    "group_name": "SaludSoft",
+    "gitlab_url": "https://git.osde.ar/projects/4585"
+  },
+  {
+    "name": "MESH Backend",
+    "bapp_id": "1222",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1222",
+    "group_name": "ADS",
+    "gitlab_url": "https://git.osde.ar/projects/2089"
+  },
+  {
+    "name": "Consulta de Cobertura Genesis",
+    "bapp_id": "1223",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1223",
+    "group_name": "SaludSoft",
+    "gitlab_url": "https://git.osde.ar/projects/4751"
+  },
+  {
+    "name": "MESH Errores",
+    "bapp_id": "1224",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1224",
+    "group_name": "Mas",
+    "gitlab_url": "https://git.osde.ar/projects/4820"
+  },
+  {
+    "name": "Consultorio Digital 2",
+    "bapp_id": "1225",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1225",
+    "group_name": "Consultorio Digital",
+    "gitlab_url": "https://git.osde.ar/projects/4641"
+  },
+  {
+    "name": "Gestion de tramites",
+    "bapp_id": "1226",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1226",
+    "group_name": "ADS",
+    "gitlab_url": "https://git.osde.ar/projects/4812"
+  },
+  {
+    "name": "Autorizaciones Protocolizadas",
+    "bapp_id": "1227",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1227",
+    "group_name": "SaludSoft",
+    "gitlab_url": "https://git.osde.ar/projects/4851"
+  },
+  {
+    "name": "SAP S4-HANA",
+    "bapp_id": "1228",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1228",
+    "group_name": "SAP",
+    "gitlab_url": "https://git.osde.ar/projects/2089"
+  },
+  {
+    "name": "Buscador de sucursales",
+    "bapp_id": "1237",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1237",
+    "group_name": "ADS",
+    "gitlab_url": "https://git.osde.ar/projects/5056"
+  },
+  {
+    "name": "Solicitud de Pago a Proveedores",
+    "bapp_id": "1238",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1238",
+    "group_name": "SaludSoft",
+    "gitlab_url": "https://git.osde.ar/projects/5117"
+  },
+  {
+    "name": "Salus web",
+    "bapp_id": "1239",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1239",
+    "group_name": "Urgencias",
+    "gitlab_url": "https://git.osde.ar/projects/3244"
+  },
+  {
+    "name": "Apligem",
+    "bapp_id": "1240",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1240",
+    "group_name": "Consultorio Digital",
+    "gitlab_url": "https://git.osde.ar/projects/5220"
+  },
+  {
+    "name": "LinkGDT",
+    "bapp_id": "1241",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1241",
+    "group_name": "LINK",
+    "gitlab_url": "https://git.osde.ar/projects/5322"
+  },
+  {
+    "name": "LinkVentas",
+    "bapp_id": "1242",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1242",
+    "group_name": "LINK",
+    "gitlab_url": "https://git.osde.ar/projects/5351"
+  },
+  {
+    "name": "LinkOmnicanalidad",
+    "bapp_id": "1243",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1243",
+    "group_name": "LINK",
+    "gitlab_url": "https://git.osde.ar/projects/5549"
+  },
+  {
+    "name": "Historico clinica analitica APEX",
+    "bapp_id": "1245",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1245",
+    "group_name": "SaludSoft",
+    "gitlab_url": "https://git.osde.ar/projects/5567"
+  },
+  {
+    "name": "Saludsoft-UFT",
+    "bapp_id": "1246",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1246",
+    "group_name": "SaludSoft",
+    "gitlab_url": "https://git.osde.ar/projects/5540"
+  },
+  {
+    "name": "Emision de Reintegros",
+    "bapp_id": "1247",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1247",
+    "group_name": "SaludSoft",
+    "gitlab_url": "https://git.osde.ar/projects/5921"
+  },
+  {
+    "name": "Solicitud de Autorizaciones",
+    "bapp_id": "1248",
+    "href": "https://pruebasdisponibilidad.cloud.osde.ar/projects/1248",
+    "group_name": "SaludSoft",
+    "gitlab_url": "https://git.osde.ar/projects/6065"
+  }
+]
