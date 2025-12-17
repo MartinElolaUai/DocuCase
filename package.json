@@ -1,0 +1,14 @@
+{
+  "name": "docu-dash",
+  "version": "1.0.0",
+  "description": "Aplicación de Gestión y Documentación de Casos de Prueba",
+  "private": true,
+  "scripts": {
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build",
+    "install:frontend": "cd frontend && npm install"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
